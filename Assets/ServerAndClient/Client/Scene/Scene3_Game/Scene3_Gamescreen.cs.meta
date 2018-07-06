@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 55c05c4a4475c9b4a872b87ebb61555f
+timeCreated: 1444200201
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Scene1: {instanceID: 0}
+  - Scene2: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - EnemyPlayer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
